@@ -1,0 +1,22 @@
+
+.skills-container {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    padding: 40px;
+}
+.skills-box {
+    width: 45%;
+}
+.progress-bar {
+    height: 10px;
+    background: cyan;
+    border-radius: 5px;
+}
+.progress-container {
+    background: #112240;
+    border-radius: 5px;
+    margin: 10px 0;
+    height: 10px;
+    width: 100%;
+}
